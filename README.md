@@ -100,7 +100,7 @@ This dashboard can help:
 
 ## 📷 Dashboard Preview
 
-![Sales Dashboard](Sales%20Dasboard.png)
+[Sales Dashboard](https://github.com/ArsalanSherin-Analyst/Adventure-works-sales__Excel-Analysis/blob/main/Sales%20Dasboard.png)
 
 
 ⭐ *If you found this project useful, consider giving it a star!*
