@@ -25,10 +25,7 @@ It includes:
 
 ## 🛠️ Tools & Technologies
 
-* **Power BI** – Dashboard creation & data visualization
-* **Excel** – Initial data handling
-* **SQL (MySQL)** – Data querying and transformation
-* **Python (Pandas)** – Data cleaning and preprocessing
+* **Microsoft Excel** 
 
 ---
 
